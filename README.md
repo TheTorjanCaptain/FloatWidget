@@ -39,7 +39,7 @@ Starts neatly docked to the top-right corner.
 ## 🚀 Quick Start
 
 ### For Non-Technical Windows Users
-1. Download **FloatWidget.exe** from the **Releases** page  
+1. Download `FloatWidget.exe` from [latest release](https://github.com/TheTorjanCaptain/FloatWidget/releases/download/v1.0/FloatWidget.exe)
 2. Double-click to run  
 3. Choose an image folder  
 4. Enjoy your floating slideshow! 🎉
