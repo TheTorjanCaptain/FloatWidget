@@ -125,10 +125,12 @@ Download from: https://www.python.org/downloads/
 ```bash
 git clone https://github.com/yourusername/FloatWidget.git
 cd FloatWidget
+```
 
 ### **Step 3: Install Dependencies**
 ```bash
 pip install -r requirements.txt
+```
 
 ### **Step 4: Run FloatWidget**
 ```bash
