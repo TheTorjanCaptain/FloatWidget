@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 # Run FloatWidget
 python FloatWidget.py
-
+```
 ---
 
 ## 📖 Usage
@@ -129,7 +129,6 @@ cd FloatWidget
 ### **Step 3: Install Dependencies**
 ```bash
 pip install -r requirements.txt
-```
 
 ### **Step 4: Run FloatWidget**
 ```bash
