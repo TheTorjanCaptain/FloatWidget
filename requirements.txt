@@ -1,0 +1,2 @@
+Pillow>=10.0.0
+tkinterweb>=3.23.0 ; optional
